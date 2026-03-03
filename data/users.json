@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mm97nzyi2gb710",
+    "username": "AMANI BIENVENUE ",
+    "email": "mnbienvenue@gmail.com",
+    "password": "$2b$10$TGMnqGPJby7Tepot/8aVUuf/5p4xiFe7tGeTHIx3tjswtIN6TrWFi",
+    "bio": "",
+    "status": "online",
+    "createdAt": "2026-03-02T13:24:54.090Z"
+  },
+  {
+    "id": "mm97q3mvpd6qy9",
+    "username": "Alice",
+    "email": "alice@test.com",
+    "password": "$2b$10$0VB1W4I5bBRKB8PAFlVvUOQ.X2CF0Pgiu.6gl191DeftB7pBTY9Pq",
+    "bio": "",
+    "status": "online",
+    "createdAt": "2026-03-02T13:26:32.167Z"
+  }
+]

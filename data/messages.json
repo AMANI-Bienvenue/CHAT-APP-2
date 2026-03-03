@@ -1,0 +1,28 @@
+{
+  "random": [
+    {
+      "id": "mm97u4hvhhrl",
+      "userId": "mm97q3mvpd6qy9",
+      "username": "Alice",
+      "message": "Hello from the new ChatVibe!",
+      "room": "random",
+      "timestamp": "2026-03-02T13:29:39.907Z"
+    },
+    {
+      "id": "mm97vfoqudpo",
+      "userId": "mm97q3mvpd6qy9",
+      "username": "Alice",
+      "message": "genda woe",
+      "room": "random",
+      "timestamp": "2026-03-02T13:30:41.066Z"
+    },
+    {
+      "id": "mm97x34c4hr5",
+      "userId": "mm97nzyi2gb710",
+      "username": "AMANI BIENVENUE ",
+      "message": "am here bea",
+      "room": "random",
+      "timestamp": "2026-03-02T13:31:58.093Z"
+    }
+  ]
+}
